@@ -1,0 +1,76 @@
+.cons-log{
+  height: 467px;
+}
+.log-form1{
+  /*border: 1px solid black;*/
+  width: 280px;
+  position: relative;
+  left: 400px;
+  top: 122px;
+}
+.log-form1 input
+{
+  width: 280px;
+  height: 37px;
+  margin: 7px 0px;
+  padding: 0px 10px;
+  background-color: #C5D6F1;
+  position: relative;
+  left: 30px;
+  border: none;
+  border-radius: 2px;
+}
+p{
+  position: relative;
+  left: 173px;
+}
+p a{
+  color: black;
+}
+
+
+.log-form2 p{
+  position: relative;
+  left: 50px;
+}
+.log-form2 a{
+  color: #48E5FB;
+}
+.log-button1{
+  position: relative;
+  bottom: 15px;
+  left: 30px;
+  background-color: #1354aa; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 11px 0px;
+  border-radius: 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 280px;
+  height: 45px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.log-button1:hover{
+  background: #f16b1e;
+  border: #f16b1e;
+}
+.log-button1 a{
+  color: white;
+}
+.log-pic{
+  /*border: 1px solid black;*/
+  width: 200px;
+  height: 120px;
+  position: relative;
+  left: 780px;
+  bottom: 132px;
+}
+.log-pic img{
+  height: 250px;
+  width: 155px;
+}

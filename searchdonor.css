@@ -1,0 +1,156 @@
+/*.sedocon{
+    /*border: 1px solid black;
+    height: 800px;
+    width: 1300px;
+}
+.sedo-im{
+    /*border: 1px solid black;
+    height: 650px;
+    width: 450px;
+    position: relative;
+    top: 80px;
+    left: 135px;
+}
+.sedo-form{
+    /*border: 2px solid black;
+    width: 450px;
+    height: 550px;
+    position: relative;
+    bottom: 530px;
+    left: 700px;
+    box-shadow: 0 0 20px rgba(214, 215, 216, 0.5);
+}
+.dropdown1 select{
+    width: 450px;
+    height: 35px;
+}*/
+.se-features-con
+{
+    height: 450px;
+}
+.se-features{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 320px;
+    width: 100%;
+    /*border: 1px solid black;*/
+   /* background-image: url(14.jpg);*/
+    /*background-repeat: no-repeat;*/
+    /*filter: blur(5px);
+    -webkit-filter: blur(5px);*/
+    background: linear-gradient(rgba(1,22,82,0.8), rgba(1,22,82,0.8)), url(2.png) fixed center center;
+    background-size: cover;
+    position: relative;
+    top: 40px;
+}
+.box1-left
+{
+   height: 400px;
+    width: 65%;
+    /*border: 1px solid black;*/
+}
+.container-box1
+{
+    height: 50px;
+    width: 35%;
+    /*border: 1px solid black;*/
+}
+.container-box1 p
+{
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: 500;
+    position: relative;
+    left: 210px;
+    bottom: 220px;
+    color: rgba(246, 247, 248, 0.8);
+}
+.container-box2
+{
+    height: 30px;
+    width: 32%;
+    position: relative;
+    left: 210px;
+    bottom: 200px;
+    /*border: 1px solid black;*/
+}
+.container-box2 p{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: 200;
+    color: rgba(245, 246, 248, 0.8);
+    height: 30px;
+}
+.container-box3
+{
+    height: 320px;
+    width: 35%;
+    /*border: 1px solid black;*/
+    position: relative;
+    left: 670px;
+    bottom: 380px;
+    background: linear-gradient(rgba(60, 164, 233, 0.8), rgba(60, 164, 233, 0.8), url(2.png)) fixed center center;
+    background-size: cover;
+    background-color: rgb(89, 195, 245);
+    opacity: 0.5;
+}
+.container-text
+{
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: relative;
+    bottom: 620px;
+    left: 786px;
+    /*border: 1px solid black;*/
+    width: 17%;
+}
+.se-form1 input
+{
+    width: 185px;
+    height: 35px;
+    position: relative;
+    left: 700px;
+    bottom: 622px;
+    border: none;
+    border-radius: 2px;
+    padding: 25px 7px;
+    margin: 0px 10px;
+}
+.se-form1 input:hover
+{
+    box-shadow: 0 0 20px rgba(139, 140, 141, 0.5);
+}
+.se-button
+{
+  position: relative;
+  /*left: 30px;*/
+  background-color: #01224d; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 11px 0px;
+  border-radius: 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 398px;
+  height: 45px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: relative;
+  bottom: 560px;
+  left: 290px;
+}
+.se-button a{
+    color: white;
+}
+.se-button:hover
+{
+  background: #ff792b;
+  border: #ff792b;
+}

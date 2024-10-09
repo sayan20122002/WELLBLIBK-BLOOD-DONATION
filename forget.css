@@ -1,0 +1,59 @@
+.con-forget{
+    /*border: 1px solid black;*/
+    height: 500px;
+}
+.forget-form1
+{
+    /*border: 1px solid black;*/
+    width: 280px;
+    position: relative;
+    left: 320px;
+    top: 120px;
+}
+.forget-form1 input{
+    width: 280px;
+  height: 37px;
+  margin: 7px 0px;
+  padding: 0px 10px;
+  background-color: #C5D6F1;
+  position: relative;
+  left: 30px;
+  border: none;
+  border-radius: 2px;
+}
+.forget-pass
+{
+ position: relative;
+  bottom: 15px;
+  left: 30px;
+  background-color: #1354aa; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 11px 0px;
+  border-radius: 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 280px;
+  height: 45px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.forget-pass a
+{
+    color: white;
+}
+.forget-pass:hover{
+    background: #f16b1e;
+  border: #f16b1e;
+}
+.forget-pic img
+{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    left: 420px;
+    bottom: 260px;
+}

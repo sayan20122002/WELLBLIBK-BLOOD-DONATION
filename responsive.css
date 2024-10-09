@@ -1,0 +1,70 @@
+/* Navbar */
+@media screen and (max-width:992px) {
+    .header-container {
+        justify-content: space-between !important;
+    }
+
+    .mobile-nav-toggle {
+        display: block;
+        margin: 0 10px 0 0;
+    }
+}
+
+@media screen and (max-width:768px) {
+    #header .navbar-brand {
+        margin: 0 0 0 10px;
+    }
+}
+
+/* Hero */
+@media screen and (max-width:1300px) {
+    #hero .slide-top {
+        position: relative;
+        bottom: 79px;
+        right: -29px;
+        font-size: 70px;
+        text-align: center;
+    }
+
+    .tracking-in-contract-bck-top {
+        position: relative;
+        bottom: 401px;
+        left: 448px;
+        color: #C7051C;
+    }
+
+    .slide-in-left {
+        position: relative;
+        right: 420px;
+    }
+
+    .slide-in-right {
+        position: relative;
+        right: 404px;
+    }
+}
+
+@media screen and (max-width:1115px) {
+    #hero .slide-top {
+        bottom: 120px;
+        right: -39px;
+        font-size: 53px;
+        width: auto;
+    }
+
+    .tracking-in-contract-bck-top {
+        position: relative;
+        bottom: 376px;
+        left: 381px;
+    }
+
+    .slide-in-left {
+        position: relative;
+        right: 328px;
+    }
+
+    .slide-in-right {
+        position: relative;
+        right: 314px
+    }
+}

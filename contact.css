@@ -1,0 +1,173 @@
+.contact-con{
+  /*border: 1px solid black;*/
+  height: 850px;
+}
+.contact-map{
+    /*border: 1px solid black;*/
+    display: inline-block;
+    position: relative;
+    top: 200px;
+    left: 70px;
+    box-shadow: 0 0 20px rgba(214, 215, 216, 0.5);
+}
+.contact-map iframe{
+    width: 400px;
+    height: 470px;
+}
+.contact-form{
+    /*border: 1px solid black;*/
+    display: inline-block;
+    width: 300px;
+    height: 500px;
+    position: relative;
+    top: 150px;
+    left: 70px;
+    /*box-shadow: 0 0 20px rgba(214, 215, 216, 0.5);*/
+}
+.contact-form input{
+  width: 280px;
+    height: 42px;
+    margin: 12px 0px;
+    background-color: #C5D6F1;
+    position: relative;
+    left: 30px;
+    border: none;
+    border-radius: 2px;
+}
+.contact-form input:hover{
+  box-shadow: 0px 0px 50px rgba(214, 215, 216, 0.5);
+}
+.contact-form textarea{
+  width: 280px;
+    margin: 11px 0px;
+    background-color: #C5D6F1;
+    border: none;
+    position: relative;
+    left: 30px;
+    margin: 12px 0px;
+    border-radius: 2px;
+}
+.contact-form textarea:hover{
+  box-shadow: 0px 0px 50px rgba(214, 215, 216, 0.5);
+}
+.contact-info{
+  /*border: 1px solid black;*/
+  height: 470px;
+  width: 460px;
+  position: relative;
+  bottom: 375px;
+  left: 820px;
+  background-color: #DBF6F8;
+  box-shadow: 0px 0px 20px rgba(214, 215, 216, 0.5);
+}
+.contact-info-he p{
+  color: #F72121;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    word-spacing: normal;
+    position: relative;
+    top: 40px;
+    left: 40px;
+}
+.contact-info-he1 p{
+  color: #02184F;
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    position: relative;
+    top: 27px;
+    left: 35px;
+    word-spacing: normal;
+    line-height: 50px;
+}
+.contact-location i{
+  font-size: 30px;
+    position: relative;
+    top: 50px;
+    left: 30px;
+    color: #F72121;
+}
+.contact-location-text1 p{
+  font-size: 22px;
+    position: relative;
+    bottom: 7px;
+    left: 65px;
+    color: #02184F;
+    font-weight: 500;
+}
+.contact-location-text2 p{
+  position: relative;
+    bottom: 20px;
+    left: 65px;
+}
+.contact-email i{
+  font-size: 30px;
+    position: relative;
+    left: 25px;
+    color: #F72121;
+}
+.contact-email-text1 p{
+  font-size: 22px;
+    position: relative;
+    bottom: 55px;
+    left: 65px;
+    color: #02184F;
+    font-weight: 500;
+}
+.contact-email-text2 p{
+  padding: 0px 55px;
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+}
+.contact-phone i{
+  font-size: 28px;
+    position: relative;
+    bottom: 48px;
+    left: 30px;
+    color: #F72121;
+}
+.contact-phone-text1 p{
+  font-size: 22px;
+    position: relative;
+    bottom: 100px;
+    left: 67px;
+    color: #02184F;
+    font-weight: 500;
+}
+.contact-phone-text2 p{
+  height: 50px;
+    position: relative;
+    bottom: 115px;
+    left: 67px;
+}
+/*.dropdown{
+    width: fit-content;
+  }*/
+.contact-button{
+  position: relative;
+  left: 30px;
+  background-color: #1354aa; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 11px 0px;
+  border-radius: 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 280px;
+  height: 45px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contact-button:hover{
+  background: #f16b1e;
+  border: #f16b1e;
+}
+.condrop select{
+  width: 400px;
+  height: 35px;
+}

@@ -1,0 +1,167 @@
+.contact-con-re{
+    /*border: 1px solid black;*/
+    height: 880px;
+}
+.location-box{
+    /*border: 1px solid black;*/
+    height: 500px;
+    width: 450px;
+    margin: 0px 35px;
+    position: relative;
+    top: 220px;
+    background-color: #DBF6F8;
+    box-shadow: 0px 0px 20px rgba(214, 215, 216, 0.5);
+}
+
+.he-box p{
+    color: #F72121;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    word-spacing: normal;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+.he-box1 p{
+    color: #02184F;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+    left: 45px;
+    word-spacing: normal;
+    line-height: 50px;
+}
+.re-location i{
+    font-size: 30px;
+    position: relative;
+    top: 70px;
+    left: 40px;
+    color: #F72121;
+}
+.re-location-text p{
+    font-size: 22px;
+    position: relative;
+    top: 10px;
+    left: 80px;
+    color: #02184F;
+    font-weight: 500;
+}
+.re-location-text1 p{
+    position: relative;
+    bottom: 10px;
+    left: 80px;
+}
+.re-email i{
+    font-size: 30px;
+    position: relative;
+    top: 10px;
+    left: 35px;
+    color: #F72121;
+}
+.re-email-text p{
+    font-size: 22px;
+    position: relative;
+    bottom: 40px;
+    left: 80px;
+    color: #02184F;
+    font-weight: 500;
+}
+.re-email-text1 p{
+    padding: 0px 55px;
+    position: relative;
+    bottom: 60px;
+    left: 25px;
+}
+.re-phone i{
+    font-size: 28px;
+    position: relative;
+    bottom: 35px;
+    left: 40px;
+    color: #F72121;
+}
+.re-phone-text p{
+    /*border: 1px solid black;*/
+    font-size: 22px;
+    position: relative;
+    bottom: 88px;
+    left: 80px;
+    color: #02184F;
+    font-weight: 500;
+}
+.re-phone-text1 p{
+    height: 50px;
+    position: relative;
+    bottom: 105px;
+    left: 80px;
+}
+.re-form{
+    /*border: 1px solid black;*/
+    position: relative;
+    width: 340px;
+    height: 400px;
+    left: 485px;
+    bottom: 290px;
+}
+.re-img1 img{
+   /* border: 1px solid black;*/
+    width: 500px;
+    height: 400px;
+    position: relative;
+    left: 820px;
+    bottom: 640px;
+    box-shadow: 0px 0px 20px rgba(214, 215, 216, 0.5);
+}
+.re-form input{
+    width: 270px;
+    height: 35px;
+    margin: 11px 0px;
+    background-color: #C5D6F1;
+    position: relative;
+    left: 30px;
+    border: none;
+    border-radius: 2px;
+}
+.re-form input:hover{
+    box-shadow: 0px 0px 50px rgba(214, 215, 216, 0.5);
+}
+.re-form textarea{
+    width: 270px;
+    margin: 11px 0px;
+    background-color: #C5D6F1;
+    border: none;
+    position: relative;
+    left: 30px;
+    margin: 12px 0px;
+    border-radius: 2px;
+}
+.re-form textarea:hover{
+    box-shadow: 0px 0px 50px rgba(214, 215, 216, 0.5);
+}
+.re-button{
+    position: relative;
+    left: 30px;
+    background-color: #1354aa; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 11px 0px;
+    border-radius: 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    width: 270px;
+    height: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.re-button:hover{
+  background: #f16b1e;
+  border: #f16b1e;
+}
+.re-form a{
+    color: white;
+}

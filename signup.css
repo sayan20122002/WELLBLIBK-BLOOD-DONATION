@@ -1,0 +1,121 @@
+.cons-signup
+{
+    height: 980px;
+}
+.cons-signup-pic img{
+    height: 800px;
+    width: 650px;
+    position: relative;
+    top: 70px;
+    left: 100px;
+    /*box-shadow: 0 0 20px rgba(214, 215, 216, 0.5);*/
+}
+.form1
+{
+    /*border: 1px solid black;*/
+    /*display: inline-block;*/
+    width: 300px;
+    /*height: 100px;*/
+    position: relative;
+    left: 750px;
+    bottom: 650px;
+}
+.form1 input{
+    width: 280px;
+    height: 37px;
+    margin: 7px 0px;
+    padding: 0px 10px;
+    background-color: #C5D6F1;
+    position: relative;
+    left: 30px;
+    border: none;
+    border-radius: 2px;
+}
+.form1 input:hover{
+    box-shadow: 0 0 20px rgba(214, 215, 216, 0.5);
+}
+.gen-form2{
+    background-color: #C5D6F1;
+    border: 1px solid black none;
+    margin: 7px 0px;
+    padding: 0px 10px;
+    width: 280px;
+    height: 28px;
+    display: inline-block;
+    position: relative;
+    left: 780px;
+    bottom: 650px;
+    color: #5F5F5F;
+    border-radius: 2px;
+}
+.gen-form2{
+    box-shadow: 0 0 20px rgba(214, 215, 216, 0.5);
+}
+.form3{
+    /*border: 1px solid black;*/
+    height: 10px;
+    width: 450px;
+    position: relative;
+    left: 750px;
+    bottom: 650px;
+}
+.form3 input{
+    width: 280px;
+    height: 37px;
+    margin: 7px 0px;
+    padding: 0px 10px;
+    background-color: #C5D6F1;
+    position: relative;
+    left: 30px;
+    border: none;
+    border-radius: 2px;
+}
+.form3 input:hover{
+    box-shadow: 0 0 20px rgba(214, 215, 216, 0.5);
+}
+.form3 textarea{
+    width: 280px;
+    margin: 7px 0px;
+    background-color: #C5D6F1;
+    border: none;
+    position: relative;
+    left: 30px;
+    margin: 12px 0px;
+    border-radius: 2px;
+}
+.form3 textarea:hover
+{
+    box-shadow: 0 0 20px rgba(214, 215, 216, 0.5);
+}
+p{
+    /*border: 1px solid black;*/
+    width: 220px;
+    position: relative;
+    left: 810px;
+    bottom: 250px;
+}
+.signup-button {
+  position: relative;
+  left: 30px;
+  background-color: #1354aa; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 11px 0px;
+  border-radius: 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 280px;
+  height: 45px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.signup-button:hover{
+  background: #f16b1e;
+  border: #f16b1e;
+}
+.signup-button a{
+    color: white;
+}
